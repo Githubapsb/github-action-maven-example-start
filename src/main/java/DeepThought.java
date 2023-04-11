@@ -1,5 +1,5 @@
 import java.util.concurrent.TimeUnit;
-int try(10);
+
 public class DeepThought {
     public DeepThought(){
 
@@ -27,7 +27,6 @@ public class DeepThought {
             System.out.println(e);
         }
     }
-
     private int give_answer(){
         return 42;
     }
