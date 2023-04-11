@@ -1,5 +1,5 @@
 import java.util.concurrent.TimeUnit;
-
+int try(10);
 public class DeepThought {
     public DeepThought(){
 
